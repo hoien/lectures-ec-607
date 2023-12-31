@@ -5,7 +5,7 @@
 
 ## Lectures
 
-TESTING TO CHANGE
+TESTING TO CHANGE. JEG TROR DET ER NÅ ER KOMPLETT OPPSETT PÅ FORKEN.
 
 *Note: While I have provided PDF versions of the lectures, they are best viewed 
 in the original HTML format.*
