@@ -5,6 +5,8 @@
 
 ## Lectures
 
+TESTING TO CHANGE
+
 *Note: While I have provided PDF versions of the lectures, they are best viewed 
 in the original HTML format.*
 
